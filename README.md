@@ -6,7 +6,7 @@
 
 ## Features: 
 * Sign Up for new users.
-* Login and logout for existing users.
+* Login and logout for already existing users.
 * On the seller side, users can add a product that they are willing to sell, its description, its image, price at which the bidding will start for their item and the time period for which they want the auction to remain live.
 * On the buyer side, the application displays a list of open auctions (displays details like product name, image base price, description, users who have made a bid) at the current time any of which the user may choose to enter to place his/her bid.
 * Latest price for each auction is be updated according to the bids that is received from the participants.
